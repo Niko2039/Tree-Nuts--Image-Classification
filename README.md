@@ -23,6 +23,7 @@ In summary, machine learning has shown considerable potential for pine nut class
 Data and methods
 About Dataset:
 Dataset has been taken from Kaggle.com.
+https://www.kaggle.com/datasets/gpiosenka/tree-nuts-image-classification
 Dataset of 10 types of tree nuts. 1163train, 50 test,50 validation files 224 X 224 X 3 jpg format. A csv file tree nuts.csv is also provided.
 Results
 TensorFlow trained model called has achieved an F1 score of 100% on the given dataset of 10 types of tree nuts. It is an excellent result. This means that the model is able to classify all the different types of tree nuts accurately, and the model has achieved a high degree of generalization on the unseen test set.
